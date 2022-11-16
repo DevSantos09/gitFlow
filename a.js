@@ -1,0 +1,4 @@
+function jogoParImpar () {
+    return "Jogar!"
+    
+}
