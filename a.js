@@ -7,3 +7,7 @@ function jogoParImpar () {
     
 }
 jogarParImpar()
+
+function pontuacao() {
+    pontos++
+}
